@@ -1,0 +1,27 @@
+@media (max-width: 600px) {
+    header > h1 {
+        font-size: 2em;
+    }
+
+    header > p {
+        font-size: 1em;
+        padding: 0 10px;
+    }
+
+    nav {
+        padding: 10px;
+    }
+
+    nav > a {
+        display: block;
+        margin: 5px 0;
+    }
+
+    main {
+        padding: 10px;
+    }
+
+    aside > ul {
+        columns: 1;
+    }
+}
